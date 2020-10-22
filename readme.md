@@ -3,7 +3,7 @@
 ## La primera vez que lo hacemos:
 
 - git init
-- <creamos el fichero>
+- creamos el fichero
 - git add .
 - git commit -m "mensajito"
 - git remote add origin git https://github.com/Manuchei/misDiagramas.git
@@ -11,7 +11,7 @@
 
 ## A partir de la segunda vez:
 
-- <creamos el fichero>
+- creamos el fichero
 - git add .
 - git commit -m "mensajito"
 - git push origin master
