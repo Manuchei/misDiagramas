@@ -6,7 +6,7 @@
 - <creamos el fichero>
 - git add .
 - git commit -m "mensajito"
-- git remote add origin git https://github.com/**Manuchei**/misDiagramas.git
+- git remote add origin git https://github.com/Manuchei/misDiagramas.git
 - git push origin master
 
 ## A partir de la segunda vez:
